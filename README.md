@@ -1,0 +1,1 @@
+You can play your Video, go to the next video or to the previous video and pause the video,and repeat and fullscreen video,volume mute and unmute
